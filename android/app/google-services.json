@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "699964367826",
+    "project_id": "firestore-pothole-app",
+    "storage_bucket": "firestore-pothole-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699964367826:android:33634fcfc2a1b3736a9e0b",
+        "android_client_info": {
+          "package_name": "com.mezops.pothole_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699964367826-isv9lcudn50b8h1bot9ko3f6rbb96tk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5Wl2hDFx-YfXqT-8C8rcdy2oTIdpJ2TA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699964367826-isv9lcudn50b8h1bot9ko3f6rbb96tk0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
